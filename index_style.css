@@ -1,0 +1,114 @@
+#navbar{
+    background-color: #00A4C4;
+    
+}
+
+header a {
+
+    color: white;
+}
+
+.fa-star,
+.fa-star-half{
+    color: yellowgreen;
+    padding: 3% 0;
+}
+
+#cart_count{
+    text-align: center;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+    border-radius: 3rem;
+    
+    
+}
+
+.shopping-cart{
+    padding: 3% 0;
+}
+
+.cart-items + .cart-items{
+    padding: 2% 0;
+}
+
+.price-details h6{
+    padding: 3% 2%;
+}
+
+#search-bar-container{
+    float: right;
+   
+}
+
+#search-button{
+   
+   border:none;
+}
+
+/* Card Hover */
+
+/*==========================================================================================================================*/
+
+/*.owl-carousel{
+      
+}*/
+
+#top-sale{
+    margin-top: 10px;
+    
+}
+
+#special-price{
+    margin-top:20px;
+}
+
+.btn-is-checked{
+    border:none;
+    background-color: yellowgreen;
+    border-radius: 5%;
+    padding: 5px;
+}
+
+.btn-is-checked:hover{
+    background-color: #B3DB5E;
+}
+
+/*=====================================*/
+
+.product:hover{
+            -webkit-transform: scale(1.05);
+            -moz-transform: scale(1.05);
+            -ms-transform: scale(1.05);
+            -o-transform: scale(1.05);
+            transform: scale(1.05);
+            -webkit-transition: all .3s ease-in-out;
+            -moz-transition: all .3s ease-in-out;
+            -ms-transition: all .3s ease-in-out;
+            -o-transition: all .3s ease-in-out;
+            transition: all .3s ease-in-out;
+            background-color: #DB9948;
+            padding-bottom: 10px;
+            border-radius: 3%;
+}
+
+.cards{
+    box-shadow: 0 4px 8px 0 rgba(0,0, 0, 0.2);
+    transition: 0.3s;
+    width: 40%;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.cards:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0, 0, 0.2);
+}
+
+.card-bodys{
+    padding: 2px 16px;
+    background-color: red;
+    color: black  ;
+}
+
+.unorderd-list{
+    list-style-type:none;
+}
+
