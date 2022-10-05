@@ -21,5 +21,4 @@ https://onlineshopping.haksenguz.com
 - [Javascript]
 - [jQuery] - Javascript library
 - [Apache HTTP Server]
-to Markdown converter
 - [SCSS] - Syntactically Awesome Style Sheet (SASS)
